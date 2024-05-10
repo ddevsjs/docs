@@ -13,6 +13,7 @@
     }
   },
   "utils": {
-    "switchLocale": "Alterar Idioma"
+    "switchLocale": "Alterar Idioma",
+    "switchColorMode": "Alterar Tema"
   }
 }
