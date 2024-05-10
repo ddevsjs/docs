@@ -1,0 +1,18 @@
+{
+  "header": {
+    "navbar": {
+      "home": "Home",
+      "docs": "Documentation",
+      "support": "Support"
+    }
+  },
+  "pages": {
+    "home": {
+      "title": "DDevs.js Framework",
+      "subtitle": "The definitive javascript framework to develop Discord application more easily and quickly!"
+    }
+  },
+  "utils": {
+    "switchLocale": "Change Language"
+  }
+}
